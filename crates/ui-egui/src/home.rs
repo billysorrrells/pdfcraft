@@ -24,7 +24,7 @@ pub fn show(app: &mut PdfCraftApp, ui: &mut egui::Ui) {
         egui::Frame::NONE.inner_margin(egui::Margin { left: 36, right: 36, top: 28, bottom: 28 }).show(ui, |ui| {
             ui.label(egui::RichText::new(tl!("Welcome to Billo PDF")).font(theme::semibold(24.0)));
             ui.label(
-                egui::RichText::new(tl!("An open-source PDF workbench — local, private, and scriptable."))
+                egui::RichText::new(tl!("A BilloTech PDF workbench — local, private, and scriptable."))
                     .color(t.text_muted)
                     .font(theme::regular(14.0)),
             );
@@ -40,7 +40,7 @@ pub fn show(app: &mut PdfCraftApp, ui: &mut egui::Ui) {
                         widgets::artcraft_mark(ui, 28.0);
                         ui.vertical(|ui| {
                             ui.label(egui::RichText::new(tl!("Join the BilloTech community")).font(theme::semibold(15.0)));
-                            ui.label(egui::RichText::new(tl!("Get help, share feedback and follow development on Discord.")).color(t.text_muted));
+                            ui.label(egui::RichText::new(tl!("Get help, share feedback and open the BilloTech toolkit.")).color(t.text_muted));
                         });
                     });
                     ui.add_space(8.0);

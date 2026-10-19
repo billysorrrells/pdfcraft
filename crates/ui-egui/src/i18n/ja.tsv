@@ -160,9 +160,9 @@
 	Previous page	前のページ
 	Current page — type a page number or label (such as iv) and press Enter	現在のページ：ページ番号またはラベル（例：iv）を入力して Enter
 	Welcome to Billo PDF	Billo PDF へようこそ
-	An open-source PDF workbench — local, private, and scriptable.	ローカルで処理し、プライバシーを守る、スクリプト対応のオープンソース PDF ツール。
+	A BilloTech PDF workbench — local, private, and scriptable.	ローカルで処理し、プライバシーを守る、スクリプト対応のオープンソース PDF ツール。
 	Join the BilloTech community	BilloTech コミュニティに参加
-	Get help, share feedback and follow development on Discord.	Discord で質問やフィードバックを共有し、開発の進捗を確認できます。
+	Get help, share feedback and open the BilloTech toolkit.	Discord で質問やフィードバックを共有し、開発の進捗を確認できます。
 	Recommended tools	おすすめのツール
 	Use now	使用する
 	Open file	ファイルを開く
@@ -1398,7 +1398,7 @@
 	Recover	復元
 	Discard	破棄
 	Version {v}	バージョン {v}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Rust で記述したクリーンルーム方式のオープンソース PDF アプリケーション。MIT OR Apache-2.0。
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Rust で記述したクリーンルーム方式のオープンソース PDF アプリケーション。MIT OR Apache-2.0。
 	Part of	関連プロジェクト
 	Summarize Options	一覧のオプション
 	Choose a layout:	レイアウトを選択:

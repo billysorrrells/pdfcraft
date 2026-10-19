@@ -158,9 +158,9 @@
 	Previous page	Попередня сторінка
 	Current page — type a page number or label (such as iv) and press Enter	Поточна сторінка — введіть номер або позначку сторінки (наприклад iv) і натисніть Enter
 	Welcome to Billo PDF	Вітаємо в Billo PDF
-	An open-source PDF workbench — local, private, and scriptable.	Відкритий інструментарій для PDF — локальний, приватний і з підтримкою сценаріїв.
+	A BilloTech PDF workbench — local, private, and scriptable.	Відкритий інструментарій для PDF — локальний, приватний і з підтримкою сценаріїв.
 	Join the BilloTech community	Приєднатися до спільноти BilloTech
-	Get help, share feedback and follow development on Discord.	Отримуйте допомогу, діліться відгуками й стежте за розробкою в Discord.
+	Get help, share feedback and open the BilloTech toolkit.	Отримуйте допомогу, діліться відгуками й стежте за розробкою в Discord.
 	Recommended tools	Рекомендовані інструменти
 	Use now	Використати зараз
 	Open file	Відкрити файл
@@ -1395,7 +1395,7 @@
 	Recover	Відновити
 	Discard	Відкинути
 	Version {v}	Версія {v}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Відкритий застосунок для PDF, написаний на Rust за принципом незалежної розробки. MIT OR Apache-2.0.
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Відкритий застосунок для PDF, написаний на Rust за принципом незалежної розробки. MIT OR Apache-2.0.
 	Part of	Частина
 	Summarize Options	Параметри зведення
 	Choose a layout:	Виберіть макет:

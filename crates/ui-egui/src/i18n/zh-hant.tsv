@@ -1300,7 +1300,7 @@
 	Delete selected pages (Organize)	刪除所選頁面（整理頁面）
 	Select all pages (Organize)	選取所有頁面（整理頁面）
 	Version {v}	版本{v}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	用 Rust 從零編寫的開源 PDF 應用。MIT OR Apache-2.0 許可。
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	用 Rust 從零編寫的開源 PDF 應用。MIT OR Apache-2.0 許可。
 	Part of	隸屬於
 	Summarize Options	彙總選項
 	Choose a layout:	選擇佈局：
@@ -1730,7 +1730,7 @@
 	Convert	轉換
 	E-Sign	電子簽署
 	Welcome to Billo PDF	歡迎使用 Billo PDF
-	An open-source PDF workbench — local, private, and scriptable.	開源 PDF 工作台，在本機處理、保護隱私，並支援指令碼。
+	A BilloTech PDF workbench — local, private, and scriptable.	開源 PDF 工作台，在本機處理、保護隱私，並支援指令碼。
 	Recommended tools	推薦工具
 	Use now	立即使用
 	Recent	最近使用
@@ -1766,7 +1766,7 @@
 	Keyboard shortcuts	鍵盤快速鍵
 	BilloTech Toolkit	加入 BilloTech Discord
 	Join the BilloTech community	加入 BilloTech 社群
-	Get help, share feedback and follow development on Discord.	在 Discord 取得協助、提供意見並追蹤開發進度。
+	Get help, share feedback and open the BilloTech toolkit.	在 Discord 取得協助、提供意見並追蹤開發進度。
 	BilloTech Toolkit	加入 Discord 社群
 	Billo PDF web page	Billo PDF 網頁
 	Agent access	GitHub 上的 Billo PDF

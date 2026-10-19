@@ -138,9 +138,9 @@
 	Next page	Επόμενη σελίδα
 	Previous page	Προηγούμενη σελίδα
 	Welcome to Billo PDF	Καλώς ορίσατε στο Billo PDF
-	An open-source PDF workbench — local, private, and scriptable.	Ένα εργαλείο PDF ανοιχτού κώδικα — τοπικό, ιδιωτικό και αυτοματοποιήσιμο.
+	A BilloTech PDF workbench — local, private, and scriptable.	Ένα εργαλείο PDF ανοιχτού κώδικα — τοπικό, ιδιωτικό και αυτοματοποιήσιμο.
 	Join the BilloTech community	Γίνετε μέλος της κοινότητας BilloTech
-	Get help, share feedback and follow development on Discord.	Βρείτε βοήθεια, μοιραστείτε σχόλια και παρακολουθήστε την ανάπτυξη στο Discord.
+	Get help, share feedback and open the BilloTech toolkit.	Βρείτε βοήθεια, μοιραστείτε σχόλια και παρακολουθήστε την ανάπτυξη στο Discord.
 	Recommended tools	Προτεινόμενα εργαλεία
 	Use now	Χρήση τώρα
 	Open file	Άνοιγμα αρχείου
@@ -933,7 +933,7 @@
 	 · password-protected	 · προστατευμένο με κωδικό
 	Recover	Ανάκτηση
 	Version {v}	Έκδοση {v}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Μια εφαρμογή PDF ανοικτού κώδικα, αναπτυγμένη ανεξάρτητα σε Rust. Άδεια MIT ή Apache-2.0.
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Μια εφαρμογή PDF ανοικτού κώδικα, αναπτυγμένη ανεξάρτητα σε Rust. Άδεια MIT ή Apache-2.0.
 	Part of	Μέρος του
 	Summarize Options	Επιλογές σύνοψης
 	Choose a layout:	Επιλέξτε διάταξη:

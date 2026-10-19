@@ -121,9 +121,9 @@
 	Previous page	Алдыңғы бет
 	Current page — type a page number or label (such as iv) and press Enter	Ағымдағы бет — бет нөмірін немесе белгісін (мысалы, iv) теріңіз де, Enter пернесін басыңыз
 	Welcome to Billo PDF	Billo PDF-ге қош келдіңіз
-	An open-source PDF workbench — local, private, and scriptable.	Ашық бастапқы кодты PDF жұмыс орны — жергілікті, жеке әрі скрипттерді қолдайтын.
+	A BilloTech PDF workbench — local, private, and scriptable.	Ашық бастапқы кодты PDF жұмыс орны — жергілікті, жеке әрі скрипттерді қолдайтын.
 	Join the BilloTech community	BilloTech қауымдастығына қосылыңыз
-	Get help, share feedback and follow development on Discord.	Көмек алыңыз, пікір бөлісіңіз және Discord-тағы әзірлеуді қадағалаңыз.
+	Get help, share feedback and open the BilloTech toolkit.	Көмек алыңыз, пікір бөлісіңіз және Discord-тағы әзірлеуді қадағалаңыз.
 	Recommended tools	Ұсынылған құралдар
 	Use now	Дәл қазір пайдалану
 	Open file	Файлды ашу
@@ -1338,7 +1338,7 @@
 	Recover	Қалпына келтіру
 	Discard	Елемеу
 	Version {v}	Нұсқа {v}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Rust тілінде жазылған, clean-room әдісімен әзірленген ашық бастапқы кодты PDF қосымшасы. MIT OR Apache-2.0.
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Rust тілінде жазылған, clean-room әдісімен әзірленген ашық бастапқы кодты PDF қосымшасы. MIT OR Apache-2.0.
 	Part of	Бөлігі
 	Summarize Options	Қорытындылау параметрлері
 	Choose a layout:	Макетті таңдаңыз:

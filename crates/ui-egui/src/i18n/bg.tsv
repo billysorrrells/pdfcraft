@@ -1349,7 +1349,7 @@
 	Delete selected pages (Organize)	Изтрий избраните страници (Организиране)
 	Select all pages (Organize)	Избери всички страници (Организиране)
 	Version {v}	Версия {v}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Независимо разработено PDF приложение с отворен код, написано на Rust. MIT OR Apache-2.0.
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Независимо разработено PDF приложение с отворен код, написано на Rust. MIT OR Apache-2.0.
 	Part of	Част от
 	Summarize Options	Опции за обобщение
 	Choose a layout:	Изберете оформление:
@@ -1779,7 +1779,7 @@
 	Convert	Конвертиране
 	E-Sign	Е-подпис
 	Welcome to Billo PDF	Добре дошли в Billo PDF
-	An open-source PDF workbench — local, private, and scriptable.	PDF работна среда с отворен код — локална, поверителна и програмируема.
+	A BilloTech PDF workbench — local, private, and scriptable.	PDF работна среда с отворен код — локална, поверителна и програмируема.
 	Recommended tools	Препоръчани инструменти
 	Use now	Използвай сега
 	Recent	Последни
@@ -1815,7 +1815,7 @@
 	Keyboard shortcuts	Клавишни комбинации
 	BilloTech Toolkit	Присъедини се към BilloTech в Discord
 	Join the BilloTech community	Присъедини се към общността на BilloTech
-	Get help, share feedback and follow development on Discord.	Получете помощ, споделете мнение и следете разработката в Discord.
+	Get help, share feedback and open the BilloTech toolkit.	Получете помощ, споделете мнение и следете разработката в Discord.
 	BilloTech Toolkit	Присъедини се към нашия Discord
 	Billo PDF web page	Уебстраница на Billo PDF
 	Agent access	Billo PDF в GitHub

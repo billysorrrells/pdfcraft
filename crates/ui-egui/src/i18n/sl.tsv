@@ -47,7 +47,7 @@
 	? of {n}	? od {n}
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{bin_added} / −{bin_deleted} binary assets, {first} – {last}	@{login}: {prs} PR-jev, {commits} commitov, +{added} / −{deleted} vrstic (Δ {delta}), +{bin_added} / −{bin_deleted} binarnih virov, {first} – {last}
 	A button	Gumb
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Odprtokodna aplikacija za PDF, razvita po postopku clean-room in napisana v jeziku Rust. MIT OR Apache-2.0.
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Odprtokodna aplikacija za PDF, razvita po postopku clean-room in napisana v jeziku Rust. MIT OR Apache-2.0.
 	A diagonal CONFIDENTIAL watermark on every page.	Diagonalni vodni žig ZAUPNO na vsaki strani.
 	A document needs at least one page: copy instead	Dokument mora imeti vsaj eno stran: namesto tega kopirajte
 	A form field has additional actions	Polje obrazca ima dodatna dejanja
@@ -202,7 +202,7 @@
 	An embedded file has no AFRelationship	Vdelana datoteka nima AFRelationship
 	An image asks to be interpolated	Slika zahteva interpolacijo
 	An image has alternates or OPI information	Slika ima nadomestke ali podatke OPI
-	An open-source PDF workbench — local, private, and scriptable.	Odprtokodno delovno okolje za PDF — lokalno, zasebno in skriptabilno.
+	A BilloTech PDF workbench — local, private, and scriptable.	Odprtokodno delovno okolje za PDF — lokalno, zasebno in skriptabilno.
 	Angle	Kot
 	Animation that flashes can cause seizures. Check scripts and media for flicker.	Animacije, ki utripajo, lahko sprožijo napade. Preverite skripte in predstavnostne vsebine glede utripanja.
 	Annotations, form fill-in, and digital signatures	Opombe, izpolnjevanje obrazcev in digitalni podpisi
@@ -866,7 +866,7 @@
 	Full screen mode	Celozaslonski način
 	General	Splošno
 	Geospatial location	Geoprostorska lokacija
-	Get help, share feedback and follow development on Discord.	Poiščite pomoč, delite povratne informacije in spremljajte razvoj na Discordu.
+	Get help, share feedback and open the BilloTech toolkit.	Poiščite pomoč, delite povratne informacije in spremljajte razvoj na Discordu.
 	Go to a page view	Pojdi na pogled strani
 	Go to page {p}	Pojdi na stran {p}
 	Go to page…	Pojdi na stran…

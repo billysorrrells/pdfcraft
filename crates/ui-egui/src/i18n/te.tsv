@@ -137,9 +137,9 @@ comment menu	Edit	సవరించు
 	Previous page	మునుపటి పేజీ
 	Current page — type a page number or label (such as iv) and press Enter	ప్రస్తుత పేజీ — పేజీ సంఖ్యను లేదా లేబుల్‌ను (iv వంటిది) టైప్ చేసి Enter నొక్కండి
 	Welcome to Billo PDF	Billo PDFకు స్వాగతం
-	An open-source PDF workbench — local, private, and scriptable.	ఓపెన్-సోర్స్ PDF వర్క్‌బెంచ్ — మీ కంప్యూటర్‌లోనే నడుస్తుంది, గోప్యంగా ఉంటుంది, స్క్రిప్ట్‌లతో ఆటోమేట్ చేయవచ్చు.
+	A BilloTech PDF workbench — local, private, and scriptable.	ఓపెన్-సోర్స్ PDF వర్క్‌బెంచ్ — మీ కంప్యూటర్‌లోనే నడుస్తుంది, గోప్యంగా ఉంటుంది, స్క్రిప్ట్‌లతో ఆటోమేట్ చేయవచ్చు.
 	Join the BilloTech community	BilloTech కమ్యూనిటీలో చేరండి
-	Get help, share feedback and follow development on Discord.	Discordలో సహాయం పొందండి, మీ అభిప్రాయాన్ని పంచుకోండి, అభివృద్ధిని అనుసరించండి.
+	Get help, share feedback and open the BilloTech toolkit.	Discordలో సహాయం పొందండి, మీ అభిప్రాయాన్ని పంచుకోండి, అభివృద్ధిని అనుసరించండి.
 	Recommended tools	సిఫార్సు చేసిన సాధనాలు
 	Use now	ఇప్పుడే ఉపయోగించు
 	Open file	ఫైల్‌ను తెరువు
@@ -1367,7 +1367,7 @@ signature pad	Type	టైప్ చేయి
 	Recover	పునరుద్ధరించు
 	Discard	విస్మరించు
 	Version {v}	వెర్షన్ {v}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Rustలో రాసిన క్లీన్-రూమ్, ఓపెన్-సోర్స్ PDF అప్లికేషన్. MIT OR Apache-2.0.
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Rustలో రాసిన క్లీన్-రూమ్, ఓపెన్-సోర్స్ PDF అప్లికేషన్. MIT OR Apache-2.0.
 	Part of	దీనిలో భాగం:
 	Summarize Options	సారాంశ ఎంపికలు
 	Choose a layout:	లేఅవుట్‌ను ఎంచుకోండి:

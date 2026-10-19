@@ -277,9 +277,9 @@ key	Space	Mezerník
 	Previous page	Předchozí stránka
 	Current page — type a page number or label (such as iv) and press Enter	Aktuální stránka — zadejte číslo nebo označení stránky (třeba iv) a stiskněte Enter
 	Welcome to Billo PDF	Vítá vás Billo PDF
-	An open-source PDF workbench — local, private, and scriptable.	Open-source dílna pro PDF — lokální, soukromá a skriptovatelná.
+	A BilloTech PDF workbench — local, private, and scriptable.	Open-source dílna pro PDF — lokální, soukromá a skriptovatelná.
 	Join the BilloTech community	Připojte se ke komunitě BilloTech
-	Get help, share feedback and follow development on Discord.	Získejte pomoc, sdílejte zpětnou vazbu a sledujte vývoj na Discordu.
+	Get help, share feedback and open the BilloTech toolkit.	Získejte pomoc, sdílejte zpětnou vazbu a sledujte vývoj na Discordu.
 	Recommended tools	Doporučené nástroje
 	Use now	Použít
 	Open file	Otevřít soubor
@@ -1465,7 +1465,7 @@ key	Space	Mezerník
 	Recover	Obnovit
 	Discard	Zahodit
 	Version {v}	Verze {v}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Open-source aplikace pro PDF napsaná v Rustu metodou clean-room. MIT OR Apache-2.0.
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Open-source aplikace pro PDF napsaná v Rustu metodou clean-room. MIT OR Apache-2.0.
 	Part of	Součást
 	Summarize Options	Možnosti souhrnu
 	Choose a layout:	Vyberte rozvržení:

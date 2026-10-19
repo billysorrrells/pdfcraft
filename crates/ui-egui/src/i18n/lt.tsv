@@ -211,7 +211,7 @@
 	; failed: {list}	; nepavyko: {list}
 	; {n} pages already had text	; {n} puslapiuose tekstas jau buvo
 	? of {n}	? iš {n}
-	A clean-room, open-source PDF application written in Rust. MIT OR Apache-2.0.	Švarių patalpų principu kuriama atvirojo kodo PDF programa, parašyta „Rust“ kalba. MIT OR Apache-2.0.
+	A clean-room, BilloTech PDF application written in Rust. MIT OR Apache-2.0.	Švarių patalpų principu kuriama atvirojo kodo PDF programa, parašyta „Rust“ kalba. MIT OR Apache-2.0.
 	Accessibility Checker	Prieinamumo tikrintuvas
 	Accessibility Checker Options	Prieinamumo tikrintuvo parinktys
 	Acrobat 3.0 and later (40-bit RC4)	„Acrobat 3.0“ ir naujesnės versijos (40 bitų RC4)
@@ -263,7 +263,7 @@
 	Also recognize pages that already have text	Taip pat atpažinti puslapius, kuriuose jau yra teksto
 	Alternate text	Alternatyvusis tekstas
 	An action with this name already exists.	Veiksmas tokiu pavadinimu jau yra.
-	An open-source PDF workbench — local, private, and scriptable.	Atvirojo kodo PDF aplinka — vietinė, privati ir valdoma scenarijais.
+	A BilloTech PDF workbench — local, private, and scriptable.	Atvirojo kodo PDF aplinka — vietinė, privati ir valdoma scenarijais.
 	Angle	Kampas
 	Animation effects	Animacijos efektai
 	Annotations, form fill-in, and digital signatures	Anotacijos, formų pildymas ir skaitmeniniai parašai
@@ -603,7 +603,7 @@
 	From {file}	Iš {file}
 	From:	Nuo:
 	Front side only	Tik priekinė pusė
-	Get help, share feedback and follow development on Discord.	Gaukite pagalbos, pateikite atsiliepimų ir sekite naujienas „Discord“.
+	Get help, share feedback and open the BilloTech toolkit.	Gaukite pagalbos, pateikite atsiliepimų ir sekite naujienas „Discord“.
 	Go to a page view	Pereiti į puslapio rodinį
 	Go to page {p}	Pereiti į puslapį {p}
 	Go to the page	Pereiti į puslapį
