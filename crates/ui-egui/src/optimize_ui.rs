@@ -378,7 +378,7 @@ mod tests {
         });
         // 1.5 s (kittest steps a quarter second): the bar has eased in, the toast still shows.
         h.run_steps(6);
-        if let Ok(path) = std::env::var("PDFCRAFT_OPTIMIZE_PROGRESS_SHOT") {
+        if let Ok(path) = std::env::var("BILLO PDF_OPTIMIZE_PROGRESS_SHOT") {
             h.render().unwrap().save(path).unwrap();
         }
         h.get_by_label("Optimizing… image 4 of 10");

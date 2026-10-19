@@ -17,7 +17,7 @@ pub fn latest_release() -> Result<Release, String> {
     let mut response = agent
         .get(LATEST)
         .header("Accept", "application/vnd.github+json")
-        .header("User-Agent", concat!("PdfCraft/", env!("CARGO_PKG_VERSION")))
+        .header("User-Agent", concat!("Billo PDF/", env!("CARGO_PKG_VERSION")))
         // Read error statuses ourselves: a 403 from GitHub usually means its anonymous
         // rate limit ran out, and the retry time rides along in a response header.
         .config()
@@ -86,9 +86,9 @@ mod tests {
 
     #[test]
     fn answers_are_read_and_only_our_release_pages_are_offered() {
-        let r = parse(r#"{"tag_name":"v0.2.0","html_url":"https://github.com/storytold/pdfcraft/releases/tag/v0.2.0"}"#).unwrap();
-        assert_eq!(r, Release { version: "v0.2.0".into(), url: "https://github.com/storytold/pdfcraft/releases/tag/v0.2.0".into() });
-        for elsewhere in ["https://example.com/pdfcraft.exe", "https://github.com/storytold/pdfcraft/releases.evil/x", "javascript:alert(1)"] {
+        let r = parse(r#"{"tag_name":"v0.2.0","html_url":"https://billysorrells.com/billotech/free/"}"#).unwrap();
+        assert_eq!(r, Release { version: "v0.2.0".into(), url: "https://billysorrells.com/billotech/free/".into() });
+        for elsewhere in ["https://example.com/pdfcraft.exe", "https://billysorrells.com/billotech/free/", "javascript:alert(1)"] {
             let r = parse(&format!(r#"{{"tag_name":"v9.9.9","html_url":"{elsewhere}"}}"#)).unwrap();
             assert_eq!(r.url, RELEASES_PAGE, "{elsewhere}");
         }

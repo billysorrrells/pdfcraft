@@ -70,7 +70,7 @@ pdfcraft-cli run    --script steps.json [--root DIR]      [{\"tool\": \"doc_open
     "\
 pdfcraft-cli ui     --control FILE <method> [key=value …] [--out shot.png]
                                                            drive a running app started with --control FILE
-help and feedback: https://discord.gg/artcraft"
+help and feedback: https://billysorrells.com/billotech/free/"
 );
 
 fn main() -> ExitCode {
@@ -617,7 +617,7 @@ fn edit_round_trip(bytes: &[u8]) {
         }
     }
     if let Some(root) = doc.root() {
-        let _ = doc.update_dict(root, |d| d.set(b"PdfCraftFuzz".to_vec(), Object::Bool(true)));
+        let _ = doc.update_dict(root, |d| d.set(b"Billo PDFFuzz".to_vec(), Object::Bool(true)));
     }
     let classic = SaveOptions { object_streams: false, ..SaveOptions::default() };
     for out in [write_incremental(&doc, &SaveOptions::default()), write_full(&doc, &SaveOptions::default()), write_full(&doc, &classic)]

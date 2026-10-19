@@ -8,18 +8,18 @@
 
 fn main() {
     println!("cargo:rerun-if-changed=build.rs");
-    println!("cargo:rerun-if-env-changed=PDFCRAFT_REQUIRE_WINRES");
+    println!("cargo:rerun-if-env-changed=BILLO PDF_REQUIRE_WINRES");
     if std::env::var("CARGO_CFG_TARGET_OS").as_deref() != Ok("windows") {
         return;
     }
     let mut res = winresource::WindowsResource::new();
-    res.set("ProductName", "PdfCraft")
-        .set("FileDescription", "PdfCraft command-line tool")
+    res.set("ProductName", "Billo PDF")
+        .set("FileDescription", "Billo PDF command-line tool")
         .set("LegalCopyright", "Copyright (c) the PdfCraft contributors. MIT OR Apache-2.0.")
         .set("OriginalFilename", "pdfcraft-cli.exe")
         .set("InternalName", "pdfcraft-cli");
     if let Err(e) = res.compile() {
-        if std::env::var_os("PDFCRAFT_REQUIRE_WINRES").is_some() {
+        if std::env::var_os("BILLO PDF_REQUIRE_WINRES").is_some() {
             println!("cargo::error=embedding Windows resources failed: {e}");
             return;
         }

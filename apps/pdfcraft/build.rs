@@ -14,7 +14,7 @@ fn main() {
     println!("cargo:rerun-if-changed=../../assets/app-icon/pdfcraft.ico");
     println!("cargo:rerun-if-changed=../../assets/app-icon/pdfcraft-document.ico");
     println!("cargo:rerun-if-changed=src/windows_manifest.rs");
-    println!("cargo:rerun-if-env-changed=PDFCRAFT_REQUIRE_WINRES");
+    println!("cargo:rerun-if-env-changed=BILLO PDF_REQUIRE_WINRES");
     if std::env::var("CARGO_CFG_TARGET_OS").as_deref() != Ok("windows") {
         return;
     }
@@ -22,13 +22,13 @@ fn main() {
     res.set_icon("../../assets/app-icon/pdfcraft.ico")
         .set_icon_with_id("../../assets/app-icon/pdfcraft-document.ico", "2")
         .set_manifest(windows_manifest::WINDOWS_MANIFEST)
-        .set("ProductName", "PdfCraft")
-        .set("FileDescription", "PdfCraft PDF workbench")
+        .set("ProductName", "Billo PDF")
+        .set("FileDescription", "Billo PDF PDF workbench")
         .set("LegalCopyright", "Copyright (c) the PdfCraft contributors. MIT OR Apache-2.0.")
         .set("OriginalFilename", "pdfcraft.exe")
         .set("InternalName", "pdfcraft");
     if let Err(e) = res.compile() {
-        if std::env::var_os("PDFCRAFT_REQUIRE_WINRES").is_some() {
+        if std::env::var_os("BILLO PDF_REQUIRE_WINRES").is_some() {
             println!("cargo::error=embedding Windows resources failed: {e}");
             return;
         }

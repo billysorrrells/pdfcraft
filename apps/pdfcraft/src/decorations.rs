@@ -12,7 +12,7 @@ use pdfcraft_ui_egui::window_controls::Layout;
 
 /// The window buttons to draw in the app, or `None` when the desktop draws the frame.
 pub(crate) fn app_drawn() -> Option<Layout> {
-    let drawn = match std::env::var("PDFCRAFT_TITLEBAR").ok().as_deref().map(str::trim) {
+    let drawn = match std::env::var("BILLO PDF_TITLEBAR").ok().as_deref().map(str::trim) {
         Some("app") => true,
         Some("system") => false,
         _ => compositor_leaves_frame_to_app(),
@@ -43,7 +43,7 @@ fn compositor_leaves_frame_to_app() -> bool {
     let Ok((globals, _queue)) = registry_queue_init::<Registry>(&conn) else { return false };
     let offered = globals.contents().with_list(|list| list.iter().any(|g| g.interface == "zxdg_decoration_manager_v1"));
     if !offered {
-        log::info!("the Wayland compositor draws no window frames; PdfCraft draws its own title bar");
+        log::info!("the Wayland compositor draws no window frames; Billo PDF draws its own title bar");
     }
     !offered
 }
